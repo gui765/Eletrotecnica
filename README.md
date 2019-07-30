@@ -115,6 +115,7 @@ início   longo = millis () ;   // Define a sensibilidade dos sensores.
      noTone ( orador ) ; 
   atraso ( 10 ) ;                              // atraso arbitrário para limitar os dados à porta serial 
  }
-
+ 
+ 
 
 
